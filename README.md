@@ -38,7 +38,7 @@ Currently grinding, experimenting, and turning ideas into code.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedRaza186&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaza186&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmedRaza186&icon=10&color=13)](https://visitcount.itsvg.in)
 
