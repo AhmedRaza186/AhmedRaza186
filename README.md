@@ -36,7 +36,5 @@ Currently grinding, experimenting, and turning ideas into code.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
-[![Ahmed Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRaza186)](https://github.com/AhmedRaza186/github-readme-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
