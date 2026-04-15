@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hey, I'm Ahmed ⚡  
-A **JavaScript-focused frontend developer** who enjoys building clean, responsive, and interactive web apps.
+A **Full Stack Developer** who enjoys building clean, responsive, and interactive web apps.
 
 - 🧠 Learning by building (projects > tutorials)
-- 🛠️ Tech stack: **HTML | CSS | JavaScript | Firebase | NodeJS | ExpressJS | MongoDB**
-- 🎨 Love working on UI, animations, and smooth user experiences
+- 🛠️ Tech stack: **HTML | CSS | JavaScript | React | Firebase | Supabase | NodeJS | ExpressJS | MongoDB**
+- 🎨 Love working on UI, APIs, and smooth user experiences
 - 🔥 Always curious, always improving
 - 📈 Goal: become a solid full-stack developer
 
