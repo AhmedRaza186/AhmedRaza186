@@ -108,26 +108,21 @@ A Google Docs-inspired application with document management, authentication, and
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AhmedRaza186&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
-  height="165"
-/>
+<a href="https://github.com/AhmedRaza186">
+  <img src="https://img.shields.io/github/followers/AhmedRaza186?style=for-the-badge&label=Followers" />
+</a>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaza186&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-  height="165"
-/>
+<a href="https://github.com/AhmedRaza186?tab=repositories">
+  <img src="https://img.shields.io/github/stars/AhmedRaza186?style=for-the-badge&label=Total%20Stars" />
+</a>
 
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=AhmedRaza186&hide_border=true&theme=transparent"
-  height="165"
-/>
+<a href="https://github.com/AhmedRaza186?tab=repositories">
+  <img src="https://img.shields.io/github/repos/AhmedRaza186?style=for-the-badge&label=Repositories" />
+</a>
 
 </div>
 
