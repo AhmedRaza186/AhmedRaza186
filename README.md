@@ -1,20 +1,74 @@
-# Hey, I'm Ahmed 👋
+<h2>Hey, I'm Ahmed! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 
-### Full Stack Developer · Building products, not just projects.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
 
-I’m a **Full Stack Developer** focused on building production-ready web applications with modern JavaScript/TypeScript technologies.
+<p>
+  <em>
+    Full Stack Developer who enjoys building <b>real-world web applications</b>
+    and turning ideas into useful products.<br/>
+    I work across the stack — from <b>interactive frontend experiences</b>
+    to <b>APIs, databases, authentication, and AI-powered features.</b>
+  </em>
+</p>
 
-I enjoy working across the stack — from **clean, responsive interfaces** to **APIs, databases, authentication, and AI-powered features**.
+<p>
+  <a href="https://github.com/AhmedRaza186">
+    <img src="https://img.shields.io/badge/GitHub-AhmedRaza186-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-raza-mun/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Raza-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmedrazamun@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Ahmed-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-```ts
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...
+
+```javascript
 const ahmed = {
   role: "Full Stack Developer",
-  focus: ["Web Applications", "Backend Systems", "AI Integration"],
-  currentlyLearning: ["TypeScript", "System Design", "Production Architecture"],
-  mindset: "Build → Break → Debug → Improve"
-};
-```
 
+  code: [
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS"
+  ],
+
+  frontend: [
+    "React",
+    "Next.js",
+    "Tailwind CSS"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MongoDB"
+  ],
+
+  tools: [
+    "Prisma",
+    "Drizzle",
+    "Git",
+    "GitHub"
+  ],
+
+  building: [
+    "AI-powered applications",
+    "Business automation",
+    "Developer tools",
+    "Product-focused web apps"
+  ],
+
+  mindset: "Build → Debug → Learn → Improve"
+};
 ---
 
 ## 🚀 What I Build
