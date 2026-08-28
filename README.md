@@ -6,7 +6,7 @@
   <em>
     Full Stack Developer who enjoys building <b>real-world web applications</b>
     and turning ideas into useful products.<br/>
-    I work across the stack — from <b>interactive frontend experiences</b>
+    I work across the stack from <b>interactive frontend experiences</b>
     to <b>APIs, databases, authentication, and AI-powered features.</b>
   </em>
 </p>
