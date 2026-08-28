@@ -69,6 +69,7 @@ const ahmed = {
 
   mindset: "Build → Debug → Learn → Improve"
 };
+```
 ---
 
 ## 🚀 What I Build
