@@ -64,15 +64,7 @@ I care about more than making things work — I'm interested in **why a system i
 
 <div align="center">
 
-![Full-Stack](https://img.shields.io/badge/Full--Stack%20Web%20Apps-0EA5E9?style=for-the-badge&logo=htmx&logoColor=white)
-![React](https://img.shields.io/badge/React%20%26%20Next.js%20Experiences-61DAFB?style=for-the-badge&logo=react&logoColor=111111)
-![AI](https://img.shields.io/badge/AI--Powered%20Automation-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Backend](https://img.shields.io/badge/REST%20APIs%20%26%20Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-<br/>
-![Database](https://img.shields.io/badge/Database--Driven%20Apps-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Auth](https://img.shields.io/badge/Auth%20%26%20Role--Based%20Systems-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![Tools](https://img.shields.io/badge/Business%20%26%20Productivity%20Tools-F59E0B?style=for-the-badge&logo=notion&logoColor=white)
-![DevTools](https://img.shields.io/badge/Developer%20Tooling-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/AhmedRaza186/AhmedRaza186@main/what-i-build.svg" width="100%"/>
 
 </div>
 
