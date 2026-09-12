@@ -29,7 +29,7 @@ jobs:
       - name: Generate trophy SVG
         working-directory: trophy-src
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TROPHY_TOKEN }}
         run: |
           deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts AhmedRaza186 ../ tokyonight
 
