@@ -33,7 +33,7 @@ jobs:
           echo "--- REST API check ---"
           curl -s -o /dev/null -w "HTTP status: %{http_code}\n" -H "Authorization: token $TOKEN" https://api.github.com/user
           echo "--- GraphQL API check (this is what render_svg.ts actually uses) ---"
-          curl -s -H "Authorization: bearer $TOKEN" -H "Content-Type: application/json" \
+          curl -s -H "Authorization: Bearer $TOKEN" -H "Content-Type: application/json" \
             -d '{"query":"query { viewer { login } }"}' \
             https://api.github.com/graphql
 
