@@ -64,7 +64,7 @@ I care about more than making things work — I'm interested in **why a system i
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/AhmedRaza186/AhmedRaza186@main/what-i-build.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/AhmedRaza186/AhmedRaza186@what-i-build/what-i-build.svg" width="100%"/>
 </div>
 
 <br/>
