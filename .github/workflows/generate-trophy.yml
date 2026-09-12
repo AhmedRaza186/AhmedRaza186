@@ -2,8 +2,8 @@ name: Generate GitHub Trophies
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger from Actions
 
 permissions:
   contents: write
@@ -11,6 +11,7 @@ permissions:
 jobs:
   trophy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout this repo
         uses: actions/checkout@v4
@@ -31,23 +32,39 @@ jobs:
           TOKEN: ${{ secrets.TROPHY_TOKEN }}
         run: |
           echo "--- REST API check ---"
-          curl -s -o /dev/null -w "HTTP status: %{http_code}\n" -H "Authorization: token $TOKEN" https://api.github.com/user
-          echo "--- GraphQL API check (this is what render_svg.ts actually uses) ---"
-          curl -s -H "Authorization: Bearer $TOKEN" -H "Content-Type: application/json" \
+          curl -s -o /dev/null -w "HTTP status: %{http_code}\n" \
+            -H "Authorization: token $TOKEN" \
+            https://api.github.com/user
+
+          echo "--- GraphQL API check ---"
+          curl -s \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Content-Type: application/json" \
             -d '{"query":"query { viewer { login } }"}' \
             https://api.github.com/graphql
 
       - name: Generate trophy SVG
         working-directory: trophy-src
-env:
-    TOKEN: ${{ secrets.TROPHY_TOKEN }}  # Changed from GITHUB_TOKEN to TOKEN
-  run: |
-    deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts AhmedRaza186 ../ tokyonight
+        env:
+          TOKEN: ${{ secrets.TROPHY_TOKEN }}
+        run: |
+          deno run \
+            --allow-net \
+            --allow-env \
+            --allow-read \
+            --allow-write \
+            ./render_svg.ts \
+            AhmedRaza186 \
+            ../ \
+            tokyonight
 
       - name: Commit trophy.svg
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
           git add trophy.svg
+
           git diff --staged --quiet || git commit -m "Update trophy.svg"
+
           git push
