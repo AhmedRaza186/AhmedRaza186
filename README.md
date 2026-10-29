@@ -19,6 +19,9 @@
   <a href="https://github.com/AhmedRaza186">
     <img src="https://img.shields.io/badge/GitHub-AhmedRaza186-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+    <a href="https://www.instagram.com/the_ahmed__raza/">
+    <img src="https://img.shields.io/badge/Instagram-the__ahmed__raza-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/ahmed-raza-mun/">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
