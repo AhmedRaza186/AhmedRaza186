@@ -179,9 +179,13 @@ A Google Docs-inspired application with document management, authentication, and
 
 I'm always open to **interesting projects, collaborations, and opportunities**.
 
+  
 <a href="https://www.linkedin.com/in/ahmed-raza-mun/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+    <a href="https://www.instagram.com/the_ahmed__raza/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Ahmed Raza-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 <a href="https://github.com/AhmedRaza186">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
