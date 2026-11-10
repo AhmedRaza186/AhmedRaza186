@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" width="860" height="340" role="img" aria-label="Git graph of Ahmed's work from JS assignments in August 2025 to Perfume AI in October 2026, with AI and motion branches merging into his portfolio.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2027"/><stop offset="1" stop-color="#203a43"/></linearGradient>
+<style>text{font-family:ui-monospace, 'Cascadia Code', SFMono-Regular, Menlo, Consolas, monospace}.n{fill:#e6edf3;font-size:15px;font-weight:600}.d{fill:#a3b8c4;font-size:12.5px}.b{font-size:13px}
+@media (prefers-reduced-motion:no-preference){
+@keyframes pmain{0%,3.33%{stroke-dashoffset:1;opacity:1}39.44%,96%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}.pmain{stroke-dasharray:1;animation:pmain 15s linear infinite}
+@keyframes pai{0%,19.89%{stroke-dashoffset:1;opacity:1}43.33%,96%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}.pai{stroke-dasharray:1;animation:pai 15s linear infinite}
+@keyframes pmo{0%,28.61%{stroke-dashoffset:1;opacity:1}39.44%,96%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}.pmo{stroke-dasharray:1;animation:pmo 15s linear infinite}
+@keyframes pmg{0%,35.56%{stroke-dashoffset:1;opacity:1}39.44%,96%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}.pmg{stroke-dasharray:1;animation:pmg 15s linear infinite}
+@keyframes c0{0%,3.33%{opacity:0}4.53%,96%{opacity:1}100%{opacity:0}}.c0{animation:c0 15s linear infinite}
+@keyframes c1{0%,12.78%{opacity:0}13.979999999999999%,96%{opacity:1}100%{opacity:0}}.c1{animation:c1 15s linear infinite}
+@keyframes c2{0%,18.89%{opacity:0}20.09%,96%{opacity:1}100%{opacity:0}}.c2{animation:c2 15s linear infinite}
+@keyframes c3{0%,23.33%{opacity:0}24.529999999999998%,96%{opacity:1}100%{opacity:0}}.c3{animation:c3 15s linear infinite}
+@keyframes c4{0%,25.56%{opacity:0}26.759999999999998%,96%{opacity:1}100%{opacity:0}}.c4{animation:c4 15s linear infinite}
+@keyframes c5{0%,32.22%{opacity:0}33.42%,96%{opacity:1}100%{opacity:0}}.c5{animation:c5 15s linear infinite}
+@keyframes c6{0%,34.44%{opacity:0}35.64%,96%{opacity:1}100%{opacity:0}}.c6{animation:c6 15s linear infinite}
+@keyframes c7{0%,39.44%{opacity:0}40.64%,96%{opacity:1}100%{opacity:0}}.c7{animation:c7 15s linear infinite}
+@keyframes c8{0%,43.33%{opacity:0}44.53%,96%{opacity:1}100%{opacity:0}}.c8{animation:c8 15s linear infinite}
+@keyframes bai{0%,22.78%{opacity:0}23.98%,96%{opacity:1}100%{opacity:0}}.bai{animation:bai 15s linear infinite}
+@keyframes bmo{0%,32.22%{opacity:0}33.42%,96%{opacity:1}100%{opacity:0}}.bmo{animation:bmo 15s linear infinite}
+}</style></defs>
+<rect width="860" height="340" rx="14" fill="url(#bg)"/>
+<path class="pmain" pathLength="1" d="M70 180H720" fill="none" stroke="#61DAFB" stroke-width="3" stroke-linecap="round"/>
+<path class="pai" pathLength="1" d="M368 180C400 180 398 270 430 270H790" fill="none" stroke="#c9b1ff" stroke-width="3" stroke-linecap="round"/>
+<path class="pmo" pathLength="1" d="M525 180C558 180 556 90 590 90H628C672 90 672 180 720 180" fill="none" stroke="#f2cc60" stroke-width="3" stroke-linecap="round"/>
+<path class="pmg" pathLength="1" d="M650 270C688 270 684 180 720 180" fill="none" stroke="#c9b1ff" stroke-width="3" stroke-linecap="round"/>
+<g class="c0"><circle cx="70" cy="180" r="8" fill="#0f2027" stroke="#61DAFB" stroke-width="3"/><text x="58" y="138" text-anchor="start" class="n">JS assignments</text><text x="58" y="158" text-anchor="start" class="d">Aug 2025</text></g>
+<g class="c1"><circle cx="240" cy="180" r="8" fill="#0f2027" stroke="#61DAFB" stroke-width="3"/><text x="240" y="138" text-anchor="middle" class="n">Quizify</text><text x="240" y="158" text-anchor="middle" class="d">Dec 2025</text></g>
+<g class="c2"><circle cx="350" cy="180" r="8" fill="#0f2027" stroke="#61DAFB" stroke-width="3"/><text x="350" y="138" text-anchor="middle" class="n">GoldenKey</text><text x="350" y="158" text-anchor="middle" class="d">May 2026</text></g>
+<g class="c3"><circle cx="430" cy="270" r="8" fill="#0f2027" stroke="#c9b1ff" stroke-width="3"/><text x="430" y="308" text-anchor="middle" class="n">Auto-QA</text><text x="430" y="328" text-anchor="middle" class="d">May 2026</text></g>
+<g class="c4"><circle cx="470" cy="180" r="8" fill="#0f2027" stroke="#61DAFB" stroke-width="3"/><text x="470" y="138" text-anchor="middle" class="n">DocFlow</text><text x="470" y="158" text-anchor="middle" class="d">Jul 2026</text></g>
+<g class="c5"><circle cx="590" cy="90" r="8" fill="#0f2027" stroke="#f2cc60" stroke-width="3"/><text x="590" y="48" text-anchor="middle" class="n">NOIR</text><text x="590" y="68" text-anchor="middle" class="d">Aug 2026</text></g>
+<g class="c6"><circle cx="630" cy="270" r="8" fill="#0f2027" stroke="#c9b1ff" stroke-width="3"/><text x="630" y="308" text-anchor="middle" class="n">VIP Setup</text><text x="630" y="328" text-anchor="middle" class="d">Aug 2026</text></g>
+<g class="c7"><circle cx="720" cy="180" r="8" fill="#0f2027" stroke="#61DAFB" stroke-width="3"/><text x="738" y="177" text-anchor="start" class="n">Portfolio</text><text x="738" y="197" text-anchor="start" class="d">Sep 2026</text></g>
+<g class="c8"><circle cx="790" cy="270" r="8" fill="#0f2027" stroke="#c9b1ff" stroke-width="3"/><text x="790" y="308" text-anchor="middle" class="n">Perfume AI</text><text x="790" y="328" text-anchor="middle" class="d">Oct 2026</text></g>
+<text x="505" y="258" fill="#c9b1ff" class="b bai">feat/ai</text>
+<text x="632" y="78" fill="#f2cc60" class="b bmo">feat/motion</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 432" width="760" height="432" role="img" aria-label="A Playwright run against Ahmed: six skills pass, and sleeping before deploying fails.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2027"/><stop offset="1" stop-color="#203a43"/></linearGradient>
+<style>text{font-family:ui-monospace, 'Cascadia Code', SFMono-Regular, Menlo, Consolas, monospace;font-size:17px;white-space:pre}
+@media (prefers-reduced-motion:no-preference){
+@keyframes type{0%,2%{clip-path:inset(0 100% 0 0);opacity:1}13%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}.type{animation:type 18s steps(36,end) infinite}
+@keyframes run{0%,15%{opacity:0}15.3%,96%{opacity:1}100%{opacity:0}}.run{animation:run 18s linear infinite}
+@keyframes t0{0%,18.89%{opacity:0}19.19%,96%{opacity:1}100%{opacity:0}}.t0{animation:t0 18s linear infinite}
+@keyframes t1{0%,23.33%{opacity:0}23.63%,96%{opacity:1}100%{opacity:0}}.t1{animation:t1 18s linear infinite}
+@keyframes t2{0%,27.78%{opacity:0}28.080000000000002%,96%{opacity:1}100%{opacity:0}}.t2{animation:t2 18s linear infinite}
+@keyframes t3{0%,32.22%{opacity:0}32.519999999999996%,96%{opacity:1}100%{opacity:0}}.t3{animation:t3 18s linear infinite}
+@keyframes t4{0%,36.67%{opacity:0}36.97%,96%{opacity:1}100%{opacity:0}}.t4{animation:t4 18s linear infinite}
+@keyframes t5{0%,41.11%{opacity:0}41.41%,96%{opacity:1}100%{opacity:0}}.t5{animation:t5 18s linear infinite}
+@keyframes fail{0%,46.67%{opacity:0}46.97%,96%{opacity:1}100%{opacity:0}}.fail{animation:fail 18s linear infinite}
+@keyframes exp{0%,52.22%{opacity:0}52.519999999999996%,96%{opacity:1}100%{opacity:0}}.exp{animation:exp 18s linear infinite}
+@keyframes rec{0%,55%{opacity:0}55.3%,96%{opacity:1}100%{opacity:0}}.rec{animation:rec 18s linear infinite}
+@keyframes sum{0%,61.11%{opacity:0}61.41%,96%{opacity:1}100%{opacity:0}}.sum{animation:sum 18s linear infinite}
+}</style></defs>
+<rect width="760" height="432" rx="14" fill="url(#bg)"/>
+<g class="type"><text x="36" y="52" fill="#61DAFB" >$</text><text x="58" y="52" fill="#e6edf3" >npx playwright test ahmed.spec.ts</text></g>
+<g class="run"><text x="36" y="94" fill="#a3b8c4" >Running 7 tests using 1 developer</text></g>
+<g class="t0"><text x="36" y="132" fill="#7ee787" >✓</text><text x="62" y="132" fill="#e6edf3" >ships full-stack apps end to end</text><text x="724" y="132" fill="#a3b8c4" text-anchor="end">React, Next, Node</text></g>
+<g class="t1"><text x="36" y="160" fill="#7ee787" >✓</text><text x="62" y="160" fill="#e6edf3" >turns a repo into running tests</text><text x="724" y="160" fill="#a3b8c4" text-anchor="end">Auto-QA</text></g>
+<g class="t2"><text x="36" y="188" fill="#7ee787" >✓</text><text x="62" y="188" fill="#e6edf3" >talks to customers in Urdu and English</text><text x="724" y="188" fill="#a3b8c4" text-anchor="end">Gemini, Groq</text></g>
+<g class="t3"><text x="36" y="216" fill="#7ee787" >✓</text><text x="62" y="216" fill="#e6edf3" >keeps realtime chat in sync</text><text x="724" y="216" fill="#a3b8c4" text-anchor="end">Socket.io</text></g>
+<g class="t4"><text x="36" y="244" fill="#7ee787" >✓</text><text x="62" y="244" fill="#e6edf3" >makes the scroll feel expensive</text><text x="724" y="244" fill="#a3b8c4" text-anchor="end">GSAP</text></g>
+<g class="t5"><text x="36" y="272" fill="#7ee787" >✓</text><text x="62" y="272" fill="#e6edf3" >debugs until the logs go quiet</text></g>
+<g class="fail"><text x="36" y="300" fill="#ff9a8f" >✘</text><text x="62" y="300" fill="#ff9a8f" >sleeps before deploying</text></g>
+<g class="exp"><text x="62" y="334" fill="#a3b8c4" >Expected:</text><text x="160" y="334" fill="#7ee787" >8 hours</text></g>
+<g class="rec"><text x="62" y="358" fill="#a3b8c4" >Received:</text><text x="160" y="358" fill="#ff9a8f" >&quot;one more fix&quot;</text></g>
+<g class="sum"><text x="36" y="400" fill="#7ee787" font-weight="700">6 passed</text><text x="136" y="400" fill="#ff9a8f" font-weight="700">1 failed</text><text x="724" y="400" fill="#f2cc60" text-anchor="end">shipping anyway</text></g>
+</svg>

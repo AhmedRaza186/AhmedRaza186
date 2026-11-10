@@ -1,62 +1,143 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Ahmed Raza — Product-focused Full Stack Developer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Ahmed%20Raza&fontSize=42&fontColor=61DAFB&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2F+Next.js+%2F+Node.js;Building+AI-Powered+Web+Apps;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
+</a>
+
+<a href="https://github.com/AhmedRaza186/Auto-QA"><img src="assets/test-run.svg" width="100%" alt="A Playwright run against Ahmed: six skills pass, and sleeping before deploying fails." /></a>
+
+<p>
+  <em>
+    Full Stack Developer who enjoys building <b>real-world web applications</b> and turning ideas into useful products.<br/>
+    I work across the stack — from <b>interactive frontend experiences</b> to <b>APIs, databases, authentication, and AI-powered features.</b>
+  </em>
+</p>
+
+<p>
+  <a href="https://ahmed-razas-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-61DAFB?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+  <a href="https://github.com/AhmedRaza186" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AhmedRaza186-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+    <a href="https://www.instagram.com/the_ahmed__raza/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Ahmed Raza-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-raza-mun/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmedrazamun@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Ahmed-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=AhmedRaza186&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS" />
+
 </div>
 
 <br/>
 
-<table>
-  <tr>
-    <td width="200" align="center" valign="middle">
-      <img src="assets/my-image.png" alt="Ahmed Raza" width="180" />
-    </td>
-    <td valign="middle">
-      <h1>Ahmed Raza</h1>
-      <p><strong>Product-focused Full Stack Developer</strong></p>
-      <p>Full Stack Developer who enjoys building real-world web applications, practical business tools, and AI-powered automation. I work across the stack — from clean, responsive interfaces to backend APIs, database architecture, and automated testing.</p>
-      <p>
-        <a href="https://github.com/AhmedRaza186"><strong>GitHub</strong></a> &nbsp;·&nbsp;
-        <a href="https://www.linkedin.com/in/ahmed-raza-mun/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
-        <a href="https://www.instagram.com/the_ahmed__raza/"><strong>Instagram</strong></a> &nbsp;·&nbsp;
-        <a href="mailto:ahmedrazamun@gmail.com"><strong>Email</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+## 🧠 About Me
+
+```javascript
+const ahmed = {
+  role: "Full Stack Developer",
+
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js", "REST APIs"],
+  databases: ["PostgreSQL", "MongoDB"],
+  tools: ["Prisma", "Drizzle", "Git", "GitHub"],
+
+  building: [
+    "AI-powered applications",
+    "Business automation",
+    "Developer tools",
+    "Product-focused web apps",
+  ],
+
+  mindset: "Build → Debug → Learn → Improve",
+};
+```
+
+I care about more than making things work — I'm interested in **why a system is designed the way it is, how it scales, and how users actually interact with it.**
 
 <br/>
 
-## 🧩 Selected Work
+## 🚀 What I Build
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AhmedRaza186/AhmedRaza186/main/what-i-build.svg?v=2" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,mongoose" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,supabase" />
+
+</div>
+
+<br/>
+
+## 🌱 How I Got Here
+
+<div align="center">
+
+<img src="assets/git-graph.svg" width="100%" alt="Git graph of Ahmed's work from JS assignments in August 2025 to Perfume AI in October 2026, with AI and motion branches merging into his portfolio." />
+
+</div>
+
+<br/>
+
+## 🧩 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Auto-QA](https://github.com/AhmedRaza186/Auto-QA)
-**AI-Powered Test Automation Agent**
+### 🤖 Auto-QA
+**AI-powered test automation agent**
 
 Analyzes GitHub repositories and generates automated Playwright tests, helping developers catch issues without manually writing every test case.
 
 `TypeScript` · `Next.js` · `Drizzle` · `PostgreSQL` · `Gemini` · `Playwright` · `GitHub OAuth`
 
-→ [Repository](https://github.com/AhmedRaza186/Auto-QA) &nbsp;·&nbsp; [Live Demo](https://auto-qa-rouge.vercel.app/)
+[📂 Repository](https://github.com/AhmedRaza186/Auto-QA) · [🚀 Live Demo](https://auto-qa-rouge.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌍 TradeSift
-**AI-Powered Trade Compliance Platform**
+**AI-powered trade compliance platform**
 
 A product focused on simplifying trade compliance workflows through AI-assisted analysis and automation.
 
-`React` · `JavaScript` · `Tailwind CSS` · `REST APIs`
+`React` · `Node.js` · `TypeScript` · `AI` · `APIs` · `Database`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 [GoldenKey Estates](https://github.com/AhmedRaza186/GoldenKey-Estates)
-**Real-Estate Web Platform**
+### 🏠 GoldenKey Estates
+**Real-estate web platform**
 
 A modern property-focused web application designed around clear information architecture, responsive UI, and smooth user interaction.
 
@@ -65,8 +146,8 @@ A modern property-focused web application designed around clear information arch
 </td>
 <td width="50%" valign="top">
 
-### 📄 [Doc Flow](https://github.com/AhmedRaza186/DocFlow)
-**Collaborative Document Editor**
+### 📄 Doc Flow
+**Collaborative document editor**
 
 A Google Docs-inspired application with document management, authentication, and a structured backend architecture.
 
@@ -78,52 +159,55 @@ A Google Docs-inspired application with document management, authentication, and
 
 <br/>
 
-## 🛠️ Technical Capabilities
-
-| Area | Core Technologies & Tools |
-| :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3 |
-| **Backend & APIs** | Node.js, Express.js, REST APIs, Authentication (OAuth, JWT) |
-| **Databases & ORMs** | PostgreSQL, MongoDB, Prisma, Drizzle ORM, Mongoose |
-| **Testing & Tooling** | Playwright (E2E), Git, GitHub, Vercel, Supabase, Firebase |
-
-<br/>
-
-## 🧠 Engineering Approach
-
-- **Product-First Thinking:** Caring about how users interact with a system, how it scales, and the concrete operational problem it solves.
-- **Full-Stack Ownership:** Connecting responsive, accessible user interfaces with reliable backend services, database schemas, and authentication.
-- **Continuous Improvement:** *Build → Debug → Learn → Improve* — catching issues early with automated testing and maintaining predictable codebases.
-
-<br/>
-
-## 📈 Activity & Contributions
+## 📊 GitHub Stats
 
 <div align="center">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedRaza186&theme=tokyonight&hide_border=true" />
+
+### 🏆 Trophies
+
+<img src="https://cdn.jsdelivr.net/gh/AhmedRaza186/AhmedRaza186@main/trophy.svg" />
+
+### 📈 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AhmedRaza186/AhmedRaza186@output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/AhmedRaza186/AhmedRaza186@output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://cdn.jsdelivr.net/gh/AhmedRaza186/AhmedRaza186@output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="github contribution snake" src="https://cdn.jsdelivr.net/gh/AhmedRaza186/AhmedRaza186@output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
-<br/>
-
----
-
-## 🌐 Get In Touch
-
-I am always open to discussing full-stack projects, practical tooling, and software engineering opportunities.
-
-- **Email:** [ahmedrazamun@gmail.com](mailto:ahmedrazamun@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ahmed-raza-mun](https://www.linkedin.com/in/ahmed-raza-mun/)
-- **GitHub:** [github.com/AhmedRaza186](https://github.com/AhmedRaza186)
-- **Instagram:** [@the_ahmed__raza](https://www.instagram.com/the_ahmed__raza/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%25" width="100%"/>
 
 <br/>
+
+## 🌐 Let's Connect
 
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Ahmed Raza Footer Banner" />
+
+I'm always open to **interesting projects, collaborations, and opportunities**.
+
+  
+<a href="https://www.linkedin.com/in/ahmed-raza-mun/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+    <a href="https://www.instagram.com/the_ahmed__raza/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Ahmed Raza-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+<a href="https://github.com/AhmedRaza186">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:ahmedrazamun@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ⚡ Build things. Solve problems. Keep improving.
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
