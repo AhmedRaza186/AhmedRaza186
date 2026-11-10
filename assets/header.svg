@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="100%" height="140" role="img" aria-label="Ahmed Raza developer visual banner">
+  <defs>
+    <!-- Background Gradient (Charcoal #111111 to subtle deep slate #16161a) -->
+    <linearGradient id="bgCanvas" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111111"/>
+      <stop offset="60%" stop-color="#141417"/>
+      <stop offset="100%" stop-color="#18181d"/>
+    </linearGradient>
+
+    <!-- Electric Blue Accent Gradient (#3157FF) -->
+    <linearGradient id="blueAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3157FF" stop-opacity="0.1"/>
+      <stop offset="40%" stop-color="#3157FF" stop-opacity="0.9"/>
+      <stop offset="80%" stop-color="#5575FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#3157FF" stop-opacity="0.1"/>
+    </linearGradient>
+
+    <!-- Secondary Wave Accent (#686762) -->
+    <linearGradient id="neutralWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#686762" stop-opacity="0.05"/>
+      <stop offset="50%" stop-color="#686762" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#686762" stop-opacity="0.05"/>
+    </linearGradient>
+
+    <!-- Hairline Divider Gradient -->
+    <linearGradient id="rulerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3157FF" stop-opacity="0.6"/>
+      <stop offset="30%" stop-color="#232326" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#232326" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <!-- Precise Technical Grid Pattern -->
+    <pattern id="editorialGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#F5F4EF" stroke-opacity="0.03" stroke-width="1"/>
+      <circle cx="32" cy="0" r="0.75" fill="#F5F4EF" fill-opacity="0.15"/>
+    </pattern>
+
+    <style>
+      /* Lightweight SVG Animation with static fallback */
+      @media (prefers-reduced-motion: no-preference) {
+        .flow-line-primary {
+          stroke-dasharray: 8 6;
+          animation: dashMove 24s linear infinite;
+        }
+        .flow-wave-1 {
+          animation: waveShift 14s ease-in-out infinite alternate;
+        }
+        .flow-wave-2 {
+          animation: waveShiftRev 18s ease-in-out infinite alternate;
+        }
+        .pulse-accent {
+          animation: beaconPulse 3.5s ease-in-out infinite;
+        }
+      }
+
+      @keyframes dashMove {
+        to { stroke-dashoffset: -280; }
+      }
+
+      @keyframes waveShift {
+        0%   { transform: translateY(0) scaleY(1); }
+        50%  { transform: translateY(-4px) scaleY(1.03); }
+        100% { transform: translateY(2px) scaleY(0.98); }
+      }
+
+      @keyframes waveShiftRev {
+        0%   { transform: translateY(0) scaleY(1); }
+        50%  { transform: translateY(3px) scaleY(0.97); }
+        100% { transform: translateY(-3px) scaleY(1.02); }
+      }
+
+      @keyframes beaconPulse {
+        0%, 100% { opacity: 0.35; transform: scale(1); }
+        50%      { opacity: 0.95; transform: scale(1.15); }
+      }
+    </style>
+  </defs>
+
+  <!-- Base Editorial Canvas -->
+  <rect width="1200" height="140" rx="8" fill="url(#bgCanvas)" stroke="#232326" stroke-width="1"/>
+
+  <!-- Restrained Technical Grid -->
+  <rect width="1200" height="140" rx="8" fill="url(#editorialGrid)"/>
+
+  <!-- Static Harmonic Wave Paths with Subtle Motion Enhancement -->
+  <g class="flow-wave-2">
+    <path d="M -50 95 C 200 125, 450 70, 750 100 C 950 120, 1100 85, 1250 105" 
+          fill="none" 
+          stroke="url(#neutralWave)" 
+          stroke-width="1.5" />
+  </g>
+
+  <g class="flow-wave-1">
+    <path d="M -50 82 C 180 50, 420 115, 700 78 C 960 45, 1120 95, 1250 70" 
+          fill="none" 
+          stroke="url(#blueAccent)" 
+          stroke-width="1.75" />
+    <path class="flow-line-primary" 
+          d="M -50 82 C 180 50, 420 115, 700 78 C 960 45, 1120 95, 1250 70" 
+          fill="none" 
+          stroke="#3157FF" 
+          stroke-width="1.25" 
+          stroke-opacity="0.8" />
+  </g>
+
+  <!-- Top Structural Architectural Hairline -->
+  <line x1="28" y1="28" x2="1172" y2="28" stroke="url(#rulerGrad)" stroke-width="1"/>
+
+  <!-- Minimal Coordinate / Positioning Header -->
+  <g transform="translate(30, 24)">
+    <circle cx="0" cy="0" r="2.5" fill="#3157FF" class="pulse-accent" />
+    <text x="14" y="3.5" 
+          fill="#FBFAF7" 
+          fill-opacity="0.88" 
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" 
+          font-size="11" 
+          font-weight="600" 
+          letter-spacing="2">AHMED RAZA</text>
+    <text x="120" y="3.5" 
+          fill="#686762" 
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" 
+          font-size="11" 
+          font-weight="500" 
+          letter-spacing="1.5">// PRODUCT-FOCUSED FULL STACK</text>
+  </g>
+
+  <!-- Technical Index Label (Right) -->
+  <g transform="translate(1170, 24)" text-anchor="end">
+    <text x="0" y="3.5" 
+          fill="#686762" 
+          font-family="ui-monospace, SFMono-Regular, Consolas, monospace" 
+          font-size="10" 
+          letter-spacing="1">SYSTEM.SYS_PORTFOLIO [v2.4]</text>
+  </g>
+</svg>
